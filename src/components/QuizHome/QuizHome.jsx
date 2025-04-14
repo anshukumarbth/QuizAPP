@@ -1,6 +1,6 @@
 
-import icon1 from "../../assets/icons.png";
 import { useNavigate } from "react-router-dom";
+import icon1 from "../../assets/icons.png";
 
 
 function QuizHome() {
